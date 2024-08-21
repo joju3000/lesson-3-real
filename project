@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<HTML lang="en">
+<head>
+
+    <title>activity 3</title>
+</head>
+<body>
+    <h4>Tables in HTML</h4>
+    <table borders-"5">
+        <tr>
+            <th>NAME</th>
+            <th>ANIMAL</th>
+            <th>PLACE</th>
+            <th>THING</th>
+        </tr>
+        <tr>
+            <td>JOY</td>
+            <td>JAGUAR</td>
+            <td>JOS</td>
+            <td>JOYSTICK</td>
+        </tr>
+        <tr>
+            <td>NAOMI</td>
+            <td>NEWT</td>
+            <td>NIGERIA</td>
+            <td>NEWSPAPER</td>
+        </tr>
+        <tr>
+            <td>DANIEL</td>
+            <td>DOG</td>
+            <td>DUBAI</td>
+            <td>DOOR</td>
+        </tr>
+    </table>
+</body>
+</html>
+
